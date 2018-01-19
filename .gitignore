@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.DS_Store
+.scrapy
+.env
+.venv
+env/
+venv/
+*.db
+.ipynb_checkpoints/
+*.log
+*.json
+*.csv
+*.ipynb
