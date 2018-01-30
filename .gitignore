@@ -11,4 +11,3 @@ venv/
 *.log
 *.json
 *.csv
-*.ipynb
