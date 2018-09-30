@@ -1,2 +1,3 @@
-# cg-scrapers
-Scrapers for the Capgemini project
+# Cap Gemini Datacamp
+
+
