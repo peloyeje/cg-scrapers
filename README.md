@@ -16,5 +16,5 @@ The aim was to extract the main pain points expressed by smartphones owners from
 
 - Régis Bouyoux
 - Alexandre Chouraki
-- [Jean-Eudes Peloye](@peloyeje)
+- [Jean-Eudes Peloye](https://github.com/peloyeje)
 - Clément Ponsonnet
